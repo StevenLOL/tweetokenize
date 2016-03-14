@@ -43,3 +43,12 @@ License
 -------
 
 "Modified BSD License". See LICENSE for details. Copyright Jared Suttles, 2013.
+
+
+
+
+#This fork extends emoticons from 79 to 93
+
+
+
+
